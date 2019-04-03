@@ -1,0 +1,51 @@
+.background_image{
+    height: 400px;
+    background: url(../design1_image1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+}
+
+.headline_1{
+	position: top left;
+    line-height: 100px;
+    min-height: 50%;
+}
+
+.headline_2{
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding-right: 10px;
+    margin: 2px;
+    width:100%;
+}
+
+.nysl_logo{
+	position: absolute;
+	right:30px;
+	top:380px;
+}
+
+.menu{
+	width:20%;
+	float:left;
+	display:inline-block;
+}
+
+.index {
+	display: block;
+	margin-right: 10px;
+	padding:30px;
+}
+
+.events{
+	width:60%;
+	float:left;
+}
+
+.about_text{
+	width:60%;
+	float:left;
+}
